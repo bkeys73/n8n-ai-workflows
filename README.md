@@ -1,6 +1,9 @@
 # The Recap AI + AI Automation Mastery n8n Workflows, Templates, and Agents
 
-Collection of n8n agents, workflows, templates, and automations created and maintained by **The Recap AI** — Join our free [AI Automation Community](https://www.skool.com/ai-automation-mastery-group) to connect with AI builders learn how to build 
+
+Collection of n8n agents, workflows, templates, and automations created and maintained by **The Recap AI** — Join our free [AI Automation Community](https://www.skool.com/ai-automation-mastery-group) to connect with AI builders learn how to build.
+
+> 👋 **Hey!** I'm also building [**Fabric AI**](https://heyfabric.ai) — an AI ad generator that creates authentic AI avatar and UGC ads in seconds. If you're working on ad creative or need to scale your marketing, check it out. It's been a game-changer for generating lifelike AI actor videos and UGC-style content. [**Try it here →**](https://heyfabric.ai)
 
 ## n8n AI Agents
 
